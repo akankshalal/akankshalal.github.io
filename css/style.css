@@ -22,7 +22,7 @@ nav.horizontal ul li{	display: inline-block;}/* horizontal menu */
 img{max-width:100%; min-height: 100%;}
 /*end reset*/
 body {
-    background: url(../images/bg.png) #fff;
+    background: url(../images/bg.png) 100% 100% no-repeat #fff;
 	background-attachment: fixed;
 	background-position: center;
 	background-size: cover;
